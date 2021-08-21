@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Fial-_lab_Exam/static/css/main.f842e594.chunk.css",
+    "main.js": "/Fial-_lab_Exam/static/js/main.4b48b83b.chunk.js",
+    "main.js.map": "/Fial-_lab_Exam/static/js/main.4b48b83b.chunk.js.map",
+    "runtime-main.js": "/Fial-_lab_Exam/static/js/runtime-main.82f567bd.js",
+    "runtime-main.js.map": "/Fial-_lab_Exam/static/js/runtime-main.82f567bd.js.map",
+    "static/css/2.4be38407.chunk.css": "/Fial-_lab_Exam/static/css/2.4be38407.chunk.css",
+    "static/js/2.e7222f88.chunk.js": "/Fial-_lab_Exam/static/js/2.e7222f88.chunk.js",
+    "static/js/2.e7222f88.chunk.js.map": "/Fial-_lab_Exam/static/js/2.e7222f88.chunk.js.map",
+    "static/js/3.6b9e9e82.chunk.js": "/Fial-_lab_Exam/static/js/3.6b9e9e82.chunk.js",
+    "static/js/3.6b9e9e82.chunk.js.map": "/Fial-_lab_Exam/static/js/3.6b9e9e82.chunk.js.map",
+    "index.html": "/Fial-_lab_Exam/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Fial-_lab_Exam/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.f842e594.chunk.css.map": "/Fial-_lab_Exam/static/css/main.f842e594.chunk.css.map",
+    "static/js/2.e7222f88.chunk.js.LICENSE.txt": "/Fial-_lab_Exam/static/js/2.e7222f88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82f567bd.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.e7222f88.chunk.js",
+    "static/css/main.f842e594.chunk.css",
+    "static/js/main.4b48b83b.chunk.js"
+  ]
+}
